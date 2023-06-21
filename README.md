@@ -1,4 +1,4 @@
 # Tableau-Visualization-of-Sales-Data
-Tool used - Tableau 
-Reference - MS excel file is included
-Different business questions visualize throght graphs, charts, line chart, bubble charts, heat map and bar graphs etc. 
+The tool used - Tableau 
+Reference - MS Excel file is included
+Different business questions visualize through graphs, charts, line charts, bubble charts, heat maps and bar graphs, etc. 
